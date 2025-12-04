@@ -1,4 +1,5 @@
-Abstract
+Abstract:
+
 Build a small convolu.onal neural network to count simple shapes: circles,
 squares, and triangles in 64×64 grayscale images. A dataset generator within
 JupyterNotebook places a random number (0-5) of each shape per image while
